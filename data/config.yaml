@@ -1,15 +1,16 @@
-name: Jacky Zhao
+name: Satwik Panigrahi
 enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Welcome to my little corner of the internet!
+  I'm Satwik, a highschool student living in the Bay Area. I'm interested in solving problems like utilizing technology to steward better mediums of truth.
+  This is my digital garden and place to find my ramblings on things of my interest.
 page_title:
-  "🪴 Quartz 3.2"
+  "🪴 Satwik Panigrahi"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/therealsatwik
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/satp42
