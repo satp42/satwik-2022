@@ -1,0 +1,16 @@
+---
+title: "The Time I Assembled a Computer"
+date: 2016-08-01
+tags:
+- Old Post
+---
+
+This is a blog post about the time I assembled a PC when I was the age of 10. This post was written in 5th grade for my first website.
+
+---
+
+When you think of a computer builder, the first person in mind would be Steve Jobs or Steve Wozniak. But would you ever think a ten-year-old, maybe has a name of Satwik Panigrahi as a computer builder? Well, no further ado, let’s get to it. It was June 15th, 2016 when I thought about building a computer after reading about Steve Jobs. Then I convinced my dad to buy the parts so I could assemble the computer. I researched different parts needed to build the computer. I was so excited that my brother said, “Keep it down” just like any brother would say. I guess I was pretty excited. My computer case was red with a glass window that made me see what I had created. So let me take you back in time when I assembled a computer.
+
+On a Saturday, I woke up and suddenly got dressed. The sunlight gazed in a streamlined vector through my window. I ran through my door, to eat my breakfast very quickly. I ran really fast to my dad as if a gust of wind passed by my face.I desperately said while my dad was working, “I mean it dad, please get dressed. I don’t want that Corsair power supply to be sold. I also heard there was a great deal on an Intel core i5 processor with a brilliant motherboard”.I guess he found out I was pretty desperate, so my brother and my dad got dressed up to go for shopping at Fry’s Electronics. OK fun fact: going to “Fry’s Electronics” shows also scientist Nikola Tesla’s helium magnitude rod. I found great things at Fry’s. One expert helped me to see if my parts were compatible. I was astonished to find my CPU not only provided graphics (which is a supplement for graphics cards) but, also graphics boost.
+
+When we came back home I rushed inside as fast as Usain Bolt. I started to examine my hollow case very thoroughly. As I finished my airflow plan for the computer which was very perplexing, I opened all the boxes of parts.I first, started on the motherboard by putting RAM sticks and processor. Then I mounted the CPU fan onto the CPU. I was really, really careful. I had treated the CPU as majesty. When it was mounted, it gave me that miraculous feeling that encouraged me to go forward, to punch the wall and travel to faith. Next I put the hard drive and the optical drive into the drive bays. The computer had started to give me an understanding that the PC was exactly like us. It is sometimes immune, but cannot be immune if not assembled properly. Finally, I wired up the cables from the power supply to the motherboard. Now it’s all assembled and ready to power up. I was scared that it might not boot up and I might have messed up something. And when I switched on the power, I saw the computer fan spinning rapidly and the computer BIOS screen showed up. I felt so excited to build a computer.Now I had that sense of pride that Steve Jobs felt when he had built his first computer. If you want to experience the same pride then you should ask your parents to build a computer. I am very proud to find a computer waiting for me to use. Thank you!
