@@ -1,17 +1,8 @@
-# Quartz
+# Personal Website '22 🌁
+This is my first iteration of my personal website. It is based on Jacky Zhao's amazing [Quartz](https://github.com/jackyzha0/quartz). I hope to use this website as a digital garden where I house my learnings and notes, whilst displaying my work for this year.
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
+## Design Goals
+- [ ]  Create a list of design goals
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in CJK + Latex Support
-5. Support for both Markdown Links and Wikilinks
-
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-🔗 Get Started: https://quartz.jzhao.xyz/
-
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Backend Goals
+- [ ]  Create a list of functional goals
